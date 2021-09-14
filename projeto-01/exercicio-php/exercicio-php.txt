@@ -1,3 +1,7 @@
+Curso Técnico em Informática - EEEP Profª Luíza de Teodoro Vieira
+
+Exercício 01 - PHP - Prof. Aloísio Silva de Sousa
+
 1 – Escreva um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número.
 
 2 – Escreva um algoritmo que leia três números nas variáveis Val1, Val2 e Val3, calcule sua média na variável media e exiba para o usuário o resultado.

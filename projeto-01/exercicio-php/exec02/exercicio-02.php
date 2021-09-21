@@ -15,11 +15,11 @@
     
     <form name="form-01" method="post" action="exercicio-exec-02.php" >
         <label for="num1">Digite o primeiro número.</label>
-        <input type="text" size="5" name="num1">
+        <input type="number" size="5" name="num1">
         <label for="num2">Digite o segundo número.</label>
-        <input type="text" size="5" name="num2">
+        <input type="number" size="5" name="num2">
         <label for="num2">Digite o terceiro número.</label>
-        <input type="text" size="5" name="num3">
+        <input type="number" size="5" name="num3">
        <input type="submit" name="" id="" value="Média">
     </form>
 </body>
